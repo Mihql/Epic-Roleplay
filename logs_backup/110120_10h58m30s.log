@@ -1,0 +1,10 @@
+OGP_HOME_000000047_startup_scr.sh: line 2: 31766 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31774 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31785 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31799 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31814 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31832 Segmentation fault      (core dumped) ./samp03svr
+Server './samp03svr ' crashed with exit code 0.  Respawning...
+OGP_HOME_000000047_startup_scr.sh: line 2: 31849 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31863 Segmentation fault      (core dumped) ./samp03svr
+OGP_HOME_000000047_startup_scr.sh: line 2: 31876 Segmentation fault      (core dumped) ./samp03svr

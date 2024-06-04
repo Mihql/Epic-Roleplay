@@ -1,0 +1,7 @@
+{
+	"user": "YSI-Data",
+	"repo": "y_iterate",
+	"dependencies": [
+		"YSI-Data/y_foreach"
+	]
+}

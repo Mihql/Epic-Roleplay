@@ -1,0 +1,26 @@
+echo Executing Server Config...
+lanmode 0
+hostname Jmas City|Roleplay v1.0
+weburl beeg.com
+mapname Philippines
+language Tagalog/English
+password
+rcon_password aolo7cpr
+maxplayers 1000
+port 5432
+maxnpc 30
+rcon 1
+announce 1
+query 1
+lagcompmode 1
+messageholelimit 3000
+messageslimit 500
+ackslimit 3000
+useartwork 1
+gamemode0 ECRPFIX
+filterscripts Anti-VPN safezone 1 2
+plugins crashdetect.so whirlpool.so pawncmd.so  SKY.so sscanf.so streamer.so mysql_static.so nativechecker.so sampvoice.so
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 300.0

@@ -1,0 +1,63 @@
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(13395) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27730) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27731) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27744) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27745) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27968) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(27969) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(28962) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(30483) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(34055) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(35547) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(41659) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(42511) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(42512) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(47904) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(47905) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(47997) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(47998) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(48423) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(48424) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(51961) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(51962) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(52983) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(52984) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(53044) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(53045) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(53401) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(54521) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(56113) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(57453) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(57969) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(57970) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(58161) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(58162) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(58607) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(59017) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(59908) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(65326) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(66337) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67160) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67163) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67172) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67226) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67244) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67414) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67415) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67484) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67485) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(67652) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(68300) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(71722) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(71723) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(97414) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(118273) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(118277) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(119817) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(119815) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "id"
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(119835) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\viper\OneDrive\Desktop\Samp\Dev\gamemodes\West.pwn(119854) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:3.
